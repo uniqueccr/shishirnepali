@@ -7,7 +7,7 @@
         </head>
 
         <body>
-            <h1 style = "color:blue;">SHISHIR NEPALI PERSONAL WEBSITE</h1>
+            <h1 style = "color:blue;">SHISHIR NEPALI PERSONAL WEBSITE hahaha</h1>
             <hr>
             <h2>Comming SOOON.....</h2>
         </body>
